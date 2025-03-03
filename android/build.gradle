@@ -1,4 +1,4 @@
-group 'com.devnation.ct_oximeter'
+group 'com.devnation.flutter_oximeter'
 version '1.0'
 
 buildscript {

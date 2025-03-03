@@ -1,4 +1,4 @@
-package com.devnation.ct_oximeter;
+package android.src.main.java.com.devnation.flutter_oximeter;
 
 import android.content.Context;
 import android.os.Handler;

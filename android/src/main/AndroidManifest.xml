@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.devnation.ct_oximeter">
+  package="com.devnation.flutter_oximeter">
 
 
     <uses-permission android:name="android.permission.BLUETOOTH" />

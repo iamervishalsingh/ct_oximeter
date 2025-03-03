@@ -1,9 +1,8 @@
-name: ct_oximeter
+name: flutter_oximeter
 description: A Flutter plugin for interacting with oximeter devices to retrieve SpO2 and heart rate data.
 version: 1.0.1
 homepage: https://github.com/iamervishalsingh/ct_oximeter
 repository: https://github.com/iamervishalsingh/ct_oximeter.git
-author: Your Name iamervishalsingh@gmail.com
 
 environment:
   sdk: ">=2.18.0 <4.0.0"
@@ -32,7 +31,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.devnation.ct_oximeter
+        package: com.devnation.flutter_oximeter
         pluginClass: FlutterOximeterPlugin
       ios:
         pluginClass: FlutterOximeterPlugin

@@ -1,4 +1,4 @@
-package com.devnation.ct_oximeter_v;
+package com.devnation.flutter_oximeter_v;
 
 import io.flutter.embedding.android.FlutterActivity;
 
