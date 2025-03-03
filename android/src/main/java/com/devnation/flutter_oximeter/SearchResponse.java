@@ -1,4 +1,4 @@
-package com.devnation.flutter_oximeter;
+package com.vishalteam.oximeter;
 
 public interface SearchResponse {
 

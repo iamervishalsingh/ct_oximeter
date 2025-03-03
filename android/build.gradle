@@ -1,4 +1,6 @@
-group 'com.devnation.flutter_oximeter'
+package android
+
+group 'com.vishalteam.oximeter'
 version '1.0'
 
 buildscript {

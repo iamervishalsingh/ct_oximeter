@@ -1,4 +1,4 @@
-package com.devnation.flutter_oximeter_v;
+package com.vishalteam.oximeter_v;
 
 import io.flutter.embedding.android.FlutterActivity;
 

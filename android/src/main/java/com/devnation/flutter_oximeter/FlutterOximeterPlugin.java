@@ -1,4 +1,4 @@
-package android.src.main.java.com.devnation.flutter_oximeter;
+package com.vishalteam.oximeter_v;
 
 import android.content.Context;
 import android.os.Handler;

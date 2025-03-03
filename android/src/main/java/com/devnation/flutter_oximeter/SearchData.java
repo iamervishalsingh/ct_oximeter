@@ -1,4 +1,4 @@
-package com.devnation.flutter_oximeter;
+package com.vishalteam.oximeter;
 
 import android.bluetooth.BluetoothDevice;
 import android.os.Parcel;

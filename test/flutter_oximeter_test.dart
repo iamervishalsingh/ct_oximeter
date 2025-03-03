@@ -1,6 +1,6 @@
 
+import 'package:ct_oximeter/flutter_oximeter.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_oximeter/flutter_oximeter.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
